@@ -1,0 +1,16 @@
+<div id="title">
+          <span class="credits left">Site owned by <a href="{{ site.github.owner_url }}">Toxic</a></span>
+          <br>
+          <span class="credits left">Website last updated on {{ site.time | date: "%B %-d, %Y %I:%M %p %Z" }}</span>
+          <br>
+          <span class="credits left">
+{%- if page.date -%}
+    Page created on {{ page.date | date: "%B %-d, %Y %I:%M %p %Z" }}
+{%- endif -%}
+          </span>
+          <span class="credits left">
+{%- if page.last_modified_at -%}
+    Page last updated on {{ page.last_modified_at | date: "%B %-d, %Y %I:%M %p %Z" }}
+{%- endif -%}
+          </span>
+</div>

@@ -15,8 +15,7 @@ View the top 5 most recent posts below, or view the full archive <a href="https:
          {% endif %}
      {% endfor %}
  </ul>
- <br>
- <a href="https://toxic-013.github.io/ToxBlog/blog/">(view all posts)</a>
+ <center><a href="https://toxic-013.github.io/ToxBlog/blog/">(view all posts)</a></center>
  
 ## Books
 

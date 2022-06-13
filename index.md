@@ -2,11 +2,12 @@
 
 **Welcome to my site fuckers!!!!! Read my blog posts and books!**
 
-## Blog Posts
+<hr>
+
+### Blog Posts
 
 View the top 5 most recent posts below, or view the full archive <a href="https://toxic-013.github.io/ToxBlog/blog/">here</a>.
 
-<hr>
 {% assign doclist = site.pages | sort: 'date' | reverse %}
  <ul>
     {% for doc in doclist limit:5 %}
@@ -16,7 +17,9 @@ View the top 5 most recent posts below, or view the full archive <a href="https:
      {% endfor %}
  </ul>
  <center><a href="https://toxic-013.github.io/ToxBlog/blog/">(view all posts)</a></center>
- 
-## Books
+
+<hr>
+
+### Books
 
 A catalogue of my books can be found <a href="https://toxic-013.github.io/ToxBlog/book-list/">here</a>.

@@ -8,7 +8,7 @@ description: A catalogue of Toxic's books.
  <ul>
     {% for doc in doclist %}
          {% if doc.url contains '/books/' %}
-             <li><a href="={{ doc.docsurl }}">{{ doc.title }}</a><br>
+             <li><a href="={{ doc.docslink }}">{{ doc.title }}</a><br>
                Description: {{ doc.description }}<br>
                Publish date: {{ doc.date }}
              </li>

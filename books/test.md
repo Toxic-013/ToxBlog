@@ -1,4 +1,5 @@
 ---
+layout: book
 title: Test Book
 description: This is definately one of the most books ever. A real book. The plot really just makes you.
 date: June 13, 3:15 PM

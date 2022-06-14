@@ -1,6 +1,6 @@
 # ToxBlog
 
-**Welcome to my site fuckers!!!!! Read my blog posts and books!**
+**Welcome to my site fuckers!!!!!**
 
 <hr>
 

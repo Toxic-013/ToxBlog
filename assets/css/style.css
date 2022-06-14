@@ -2,10 +2,6 @@
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{
     display:block
 }
-.fork .right {
-    float: right;
-    text-align: right;
-}
 audio,canvas,video{
     display:inline-block;
     *display:inline;
@@ -510,6 +506,10 @@ dt{
 #header nav ul li.fork{
     float:left;
     margin-left:0px
+}
+#header nav ul li.right{
+    float:right;
+    margin-right:0px
 }
 #header nav ul li.downloads{
     float:right;

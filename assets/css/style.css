@@ -2,6 +2,23 @@
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{
     display:block
 }
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
 audio,canvas,video{
     display:inline-block;
     *display:inline;

@@ -2,7 +2,7 @@
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{
     display:block
 }
-.fork.right {
+.fork .right {
     float: right;
     text-align: right;
 }

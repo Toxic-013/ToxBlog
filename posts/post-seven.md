@@ -5,6 +5,9 @@ date: June 15, 2022 7:45PM
 last-modified-date:
 ---
 
+Hey guys!!, Its Tox, your BELOVED blogger!!!
+And I have something to say:
+
 The universe is annoying me
 
 The ammount of liars and scum is so so very sad.
@@ -15,6 +18,10 @@ It just makes you wanna cry, doesen't it?
 
 Though I guess it isn't **all** bad.
 I think someone likes me.
+*though i have my suspicions he's just playing me along*.
+
+The amount of uncertanty here scares me.
+And to be honest, I'm not sure if i even like the guy.
 
 Onto more, Useful news:
 

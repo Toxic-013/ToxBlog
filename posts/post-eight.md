@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Eight: Tox the boy magnet"
+date: June 16, 2022 8:16PM
+last-modified-date:
+---
+
+OH HOLY JESUS
+
+TWO BOYS LIKE ME
+
+AND I LIKE THE HOTTER ONE
+
+OH NO 
+
+OH DEARY ME
+
+OH HELLISH AGONY
+
+NONONO
+
+HELP ME GOD MY BRAIN CANNOT COMPREHEND THIS,
+
+IM NOT SEXY WHY DO THEY LIKE ME????????????????????
+
+
+NONONO
+
+*eh im proud of myself*
+
+HAHA
+
+KILLMENOWBECAUSEIKNOWTHISWONTENDWELLFORME

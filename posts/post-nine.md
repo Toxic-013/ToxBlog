@@ -30,9 +30,10 @@ HATE AND WEED ARE LOVELY!!!
 
 Im serous though, I'm so glad I get it now.
 
-I wasn't just "not finding the right person", because EVERYONE'S just the same: a horny prick. I just dont love.
+I wasn't just "not finding the right person", because EVERYONE'S just the same: an absolute prick, or just such a cringelord that it's unbearable. I just dont love people.
 
 FULL STOP.
 
 Bye readers, ((which is probably just one person...))
+
 

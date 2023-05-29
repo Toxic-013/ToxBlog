@@ -30,4 +30,4 @@ I wrote them all myself, and I hope you'll read them!
 ### Misc Posts
 
 Are you having fun yet?
-if not, here's a link to all my <a href=https://toxic-013.github.io/ToxBlog/miscellaneous/>misc posts</a>.
+if not, here's a link to all my <a href="https://toxic-013.github.io/ToxBlog/miscellaneous/">misc posts</a>.

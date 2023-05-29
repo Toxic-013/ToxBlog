@@ -1,7 +1,8 @@
 # UNDERTOW
 
 This website is a collection of blog posts and links to places.
-(put together by Undertow (The site owner), and Ryan Koop.)
+
+(put together by Undertow and Ryan Koop.)
 
 <hr>
 

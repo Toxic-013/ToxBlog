@@ -31,3 +31,6 @@ I wrote them all myself, and I hope you'll read them!
 
 Are you having fun yet?
 if not, here's a link to all my <a href="https://toxic-013.github.io/ToxBlog/miscellaneous/">misc posts</a>.
+
+They are just a collection of things that don't fit into any of the other subsections of the site.
+

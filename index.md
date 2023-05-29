@@ -26,6 +26,7 @@ A catalogue of my books can be found <a href="https://toxic-013.github.io/ToxBlo
 I wrote them all myself, and I hope you'll read them!
 
 <hr>
+
 ### Misc Posts
 
 Are you having fun yet?

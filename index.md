@@ -22,6 +22,7 @@ View the top 5 most recent posts below, or view the full archive <a href="https:
 ### Book Catalogue
 
 A catalogue of my books can be found <a href="https://toxic-013.github.io/ToxBlog/book-list/">here</a>.
+
 I wrote them all myself, and I hope you'll read them!
 
 <hr>

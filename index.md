@@ -4,7 +4,7 @@
 
 ### Blog
 
-View the top 5 most recent posts below, or view the full archive <a href="https://toxic-013.github.io/ToxBlog/blog/">here</a>.
+View the top three most recent posts below, or view the full archive <a href="https://toxic-013.github.io/ToxBlog/blog/">here</a>.
 
 {% assign doclist = site.pages | sort: 'date' | reverse %}
  <ul>
